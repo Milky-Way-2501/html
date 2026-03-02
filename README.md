@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 Trương Phan Thiện Công - Giới Thiệu
 Xin Chào, Tôi Là Trương Phan Thiện Công 👋
